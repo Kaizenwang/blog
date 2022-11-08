@@ -1,5 +1,25 @@
 baseURL = 'https://kaizen.wang/'
 # languageCode = "zh-CN"
 defaultContentLanguage = 'zh-hans'
-title = 'Kaizenwang 的博客'
+title = '大头的博客'
 theme = "maupassant"
+
+summaryLength = 10
+
+[author]
+name = "BigHead"
+
+[params]
+
+[menu]
+[[menu.main]]
+identifier = "archives"
+name = "归档"
+url = "/archives/"
+weight = 2
+
+[[menu.main]]
+identifier = "about"
+name = "关于"
+url = "/about/"
+weight = 3
