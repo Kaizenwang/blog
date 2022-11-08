@@ -1,0 +1,5 @@
+baseURL = 'https://kaizen.wang/'
+# languageCode = "zh-CN"
+defaultContentLanguage = 'zh-hans'
+title = 'Kaizenwang 的博客'
+theme = "maupassant"
