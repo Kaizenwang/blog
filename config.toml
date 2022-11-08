@@ -11,6 +11,10 @@ summaryLength = 10
 name = "BigHead"
 
 [params]
+author = "BigHead"
+subtitle = "不积硅步，无以至千里"
+keywords = "Java,MySQL"
+description = "不积硅步，无以至千里"
 
 [params.utteranc]
     enable = true
