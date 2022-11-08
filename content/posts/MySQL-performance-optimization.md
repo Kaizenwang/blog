@@ -1,5 +1,6 @@
 ---
 title: "MySQL 性能优化"
+tags: ['MySQL']
 date: 2022-11-08T19:03:37+08:00
 draft: false
 ---
