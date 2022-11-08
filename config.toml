@@ -3,6 +3,7 @@ baseURL = 'https://kaizen.wang/'
 defaultContentLanguage = 'zh-hans'
 title = '大头的博客'
 theme = "maupassant"
+googleAnalytics = "UA-136328493-1"
 
 summaryLength = 10
 
