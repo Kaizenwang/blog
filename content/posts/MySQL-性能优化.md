@@ -1,10 +1,10 @@
 ---
-title: "My First Post"
+title: "MySQL 性能优化"
 date: 2022-11-08T19:03:37+08:00
 draft: false
 ---
 
-# 性能优化
+# MySQL 性能优化
 
 ## 避免使用短连接访问 MySQL
 
