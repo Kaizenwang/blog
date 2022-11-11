@@ -17,7 +17,7 @@ keywords = "Java,MySQL"
 description = "不积硅步，无以至千里"
 
 [params.utteranc]
-    enable = true
+    enable = false
     repo = "kaizenwang/comment"    # 存储评论的Repo，格式为 owner/repo
     issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
     theme = "github-light" # 样式主题，有github-light和github-dark两种
