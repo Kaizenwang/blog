@@ -12,9 +12,9 @@ name = "BigHead"
 
 [params]
 author = "BigHead"
-subtitle = "不积硅步，无以至千里"
-keywords = "Java,MySQL"
-description = "不积硅步，无以至千里"
+subtitle = ""
+keywords = "Java,MySQL,Spring,SpringBoot,SpringCloud"
+description = ""
 
 [params.utteranc]
     enable = false
